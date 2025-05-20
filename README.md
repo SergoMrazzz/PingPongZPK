@@ -1,6 +1,6 @@
 # Projekt ZPK – Gra Pong (Wersja komponentowa i niekomponentowa)
 
-Autorzy:
+Autor:
 - Serhii Yakubiv
 
 Rok akademicki: 2024/2025  
