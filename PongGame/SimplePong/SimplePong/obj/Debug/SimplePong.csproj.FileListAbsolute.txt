@@ -1,0 +1,9 @@
+C:\Users\sergi\Desktop\PongGame\SimplePong\SimplePong\obj\Debug\SimplePong.csproj.AssemblyReference.cache
+C:\Users\sergi\Desktop\PongGame\SimplePong\SimplePong\obj\Debug\SimplePong.Properties.Resources.resources
+C:\Users\sergi\Desktop\PongGame\SimplePong\SimplePong\obj\Debug\SimplePong.csproj.GenerateResource.cache
+C:\Users\sergi\Desktop\PongGame\SimplePong\SimplePong\obj\Debug\SimplePong.csproj.CoreCompileInputs.cache
+C:\Users\sergi\Desktop\PongGame\SimplePong\SimplePong\bin\Debug\SimplePong.exe.config
+C:\Users\sergi\Desktop\PongGame\SimplePong\SimplePong\bin\Debug\SimplePong.exe
+C:\Users\sergi\Desktop\PongGame\SimplePong\SimplePong\bin\Debug\SimplePong.pdb
+C:\Users\sergi\Desktop\PongGame\SimplePong\SimplePong\obj\Debug\SimplePong.exe
+C:\Users\sergi\Desktop\PongGame\SimplePong\SimplePong\obj\Debug\SimplePong.pdb
